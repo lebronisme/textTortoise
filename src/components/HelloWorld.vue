@@ -2,6 +2,7 @@
   <div>
     <p>hello</p>
     <p>text</p>
+    <p>text1</p>
   </div>
 </template>
 
